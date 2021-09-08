@@ -1,0 +1,56 @@
+body{
+    background:url("../imagenes/texture.png");
+}
+
+.violencias{
+    text-align: center;
+    background-color: #A5C5DF;
+}
+
+p{
+    text-align: justify;
+    
+}
+
+#texto1{
+    padding-top:50px;
+    text-align: center;
+}
+
+.ley{
+    background:url("../imagenes/fondo2.jpg");
+}
+
+hr{
+    width: 85%;
+}
+
+p{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 17px;
+}
+
+h1{
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+.parrafo1{
+    font-size: 21px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+a{
+    font-family: 'Quicksand', sans-serif;  
+}
+
+table{
+    font-family: 'Quicksand', sans-serif; 
+    border: 5px;
+}
+
+.contacto{
+    
+    background:url("../imagenes/Secretaria.jpg");
+
+}
